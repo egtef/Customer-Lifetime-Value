@@ -6,3 +6,8 @@
 - Analyze the patterns of repeat customers and their contributions to overall revenue.
 - Analyze the behaviors of best-selling products.
 - Track the trends of popular items over time
+
+**Methodolgy**
+- Exploring the data
+- Remove outliers
+- Visualzation and findings
