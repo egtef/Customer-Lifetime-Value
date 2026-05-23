@@ -23,6 +23,7 @@ Analyzed a full year of e-commerce transaction data to understand customer purch
 - Product popularity shifted over time, indicating changing customer preferences  
 
 ![](clv_update1.png)  ![](clv_update2.png) ![](clv_update3.png) ![](clv_update4.png)
+<img src="clv_update1.png" width="300"/>
 
 ### Tools & Skills
 Python, Pandas, Data Cleaning, Exploratory Data Analysis, Data Visualization
