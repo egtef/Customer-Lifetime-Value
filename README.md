@@ -22,8 +22,12 @@ Analyzed a full year of e-commerce transaction data to understand customer purch
 - Clear seasonal/monthly fluctuations in product demand were observed  
 - Product popularity shifted over time, indicating changing customer preferences  
 
-![](clv_update1.png)  ![](clv_update2.png) ![](clv_update3.png) ![](clv_update4.png)
+
+<h3>Customer Segmentation Distribution</h3>
 <img src="clv_update1.png" width="300"/>
+<img src="clv_update2.png" width="300"/>
+<img src="clv_update3.png" width="300"/>
+<img src="clv_update4.png" width="300"/>
 
 ### Tools & Skills
 Python, Pandas, Data Cleaning, Exploratory Data Analysis, Data Visualization
