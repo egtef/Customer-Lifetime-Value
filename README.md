@@ -22,7 +22,31 @@ Analyzed a full year of e-commerce transaction data to understand customer purch
 - Clear seasonal/monthly fluctuations in product demand were observed  
 - Product popularity shifted over time, indicating changing customer preferences  
 
+<h3>Key Visualizations</h3>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="clv_update1.png" width="350"/>
+      <br><b>Title 1</b>
+    </td>
+    <td align="center">
+      <img src="clv_update2.png" width="350"/>
+      <br><b>Title 2</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="clv_update3.png" width="350"/>
+      <br><b>Title 3</b>
+    </td>
+    <td align="center">
+      <img src="clv_update4.png" width="350"/>
+      <br><b>Title 4</b>
+    </td>
+  </tr>
+</table>
 <h3>Customer Segmentation Distribution</h3>
 <img src="clv_update1.png" width="300"/>
 <img src="clv_update2.png" width="300"/>
