@@ -27,9 +27,8 @@ Analyzed a full year of e-commerce transaction data to understand customer purch
 <table>
   <tr>
     <td align="center">
-      <br><b>Sales Trend Analysis</b>
       <img src="clv_update1.png" width="350"/>
-      
+      <br><b>Sales Trend Analysis</b>
     </td>
     <td align="center">
       <img src="clv_update2.png" width="350"/>
