@@ -47,11 +47,6 @@ Analyzed a full year of e-commerce transaction data to understand customer purch
     </td>
   </tr>
 </table>
-<h3>Customer Segmentation Distribution</h3>
-<img src="clv_update1.png" width="300"/>
-<img src="clv_update2.png" width="300"/>
-<img src="clv_update3.png" width="300"/>
-<img src="clv_update4.png" width="300"/>
 
 ### Tools & Skills
 Python, Pandas, Data Cleaning, Exploratory Data Analysis, Data Visualization
