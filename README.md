@@ -27,12 +27,13 @@ Analyzed a full year of e-commerce transaction data to understand customer purch
 <table>
   <tr>
     <td align="center">
-      <img src="clv_update1.png" width="350"/>
       <br><b>Sales Trend Analysis</b>
+      <img src="clv_update1.png" width="350"/>
+      
     </td>
     <td align="center">
       <img src="clv_update2.png" width="350"/>
-      <br><b>AlL vs Returning Customers</b>
+      <br><b>All vs Returning Customers</b>
     </td>
   </tr>
 
