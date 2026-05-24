@@ -28,22 +28,22 @@ Analyzed a full year of e-commerce transaction data to understand customer purch
   <tr>
     <td align="center">
       <img src="clv_update1.png" width="350"/>
-      <br><b>Title 1</b>
+      <br><b>Sales Trend Analysis</b>
     </td>
     <td align="center">
       <img src="clv_update2.png" width="350"/>
-      <br><b>Title 2</b>
+      <br><b>AlL vs Returning Customers</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <img src="clv_update3.png" width="350"/>
-      <br><b>Title 3</b>
+      <br><b>Item Popularity Analysis</b>
     </td>
     <td align="center">
       <img src="clv_update4.png" width="350"/>
-      <br><b>Title 4</b>
+      <br><b>Top vs Low Value Segments</b>
     </td>
   </tr>
 </table>
